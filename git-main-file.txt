@@ -1,1 +1,10 @@
 Data changed again
+
+Matrix examples:
+1 0 0
+0 1 0
+0 0 1
+
+Another example:
+1 2
+3 4
